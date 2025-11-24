@@ -141,7 +141,9 @@ with st.container():
         st.markdown('<div class="big-title">Six Human Emotions Detection</div>', unsafe_allow_html=True)
         st.markdown('</div>', unsafe_allow_html=True)
         st.write('Detect the dominant emotion in a short piece of text. Powered by a TF-IDF + Logistic Regression pipeline.')
-    with col2:\n        # no image or emoji — keeping header clean and plain\n        st.write("")
+    with col2:
+        # no image or emoji — keeping header clean and plain
+        st.write("")("")        # no image or emoji — keeping header clean and plain\n        st.write("")
 
 st.markdown('---')
 
@@ -234,3 +236,4 @@ with st.expander('About this app'):
 
 # small note on running
 st.caption('Save this file as app.py and run `streamlit run app.py` in the same folder where your pickles live.')
+
