@@ -1,5 +1,5 @@
 # Six Human Emotions Detection App
-
+https://emotionclassificationnlp-mrp8bzwopamzxse8lzkgapp.streamlit.app/
 ## Overview
 This is a simple Streamlit web application for detecting six human emotions (Joy, Fear, Anger, Love, Sadness, Surprise). The app uses machine learing and deep learning models trained on preprocessed text data.
 
@@ -26,3 +26,4 @@ This app is created by Noor Saeed.
 
 # License
 This project is licensed under the MIT License 
+
