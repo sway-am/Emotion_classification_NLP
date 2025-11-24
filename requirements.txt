@@ -2,4 +2,4 @@ streamlit>=1.20.0
 numpy>=1.26
 nltk>=3.8.1
 scikit-learn>=1.7.2
-tensorflow==2.15.0
+tensorflow==2.20.0
